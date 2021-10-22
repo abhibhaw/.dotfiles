@@ -1,4 +1,5 @@
 # My .dotfiles
+![1](https://user-images.githubusercontent.com/39991296/138511111-8b19d708-d598-41da-92a9-35af5ba5e820.png)
 
 Contains my current terminal and gitconfig settings to ease the process of migrating to any new system.
 
